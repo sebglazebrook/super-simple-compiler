@@ -2,7 +2,8 @@ module SuperSimpleCompiler
   class SemanticAnalyzer
 
     def self.analyze(syntax_tree)
-      # TODO
+      # TODO currently a NOOP
+      syntax_tree
     end
 
   end

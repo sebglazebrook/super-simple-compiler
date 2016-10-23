@@ -2,7 +2,8 @@ module SuperSimpleCompiler
   class IntermediateCodeOptimizer
 
     def self.optimize(intermediate_code)
-      # TODO
+      # TODO currently noop
+      intermediate_code
     end
 
   end
